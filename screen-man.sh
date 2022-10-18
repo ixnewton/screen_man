@@ -22,6 +22,7 @@
 # <ctl>+<alt>+<left> /usr/local/bin/screen-man edp1 - configure for laptop LCD only
 # <ctl>+<alt>+<down> /usr/local/bin/screen-man  edp1dp2 - configure for 2nd screen to left
 # <ctl>+<alt>+<M> /usr/local/bin/screen-man - default refresh touch mapping and brightness tracking
+
 # Get current touch device data
 
     inputp=$1
