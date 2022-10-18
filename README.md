@@ -1,6 +1,8 @@
  **screen_man**
 
- Linux desktop script to manage dual screen setup such as laptop with a usb-C/hdmi connected screen using xinput and xrandr.
+ Linux desktop script to manage dual screen setup such as a laptop (with touch screen) with a usb-C/hdmi connected touch screen using xinput and xrandr. 
+ 
+ Without touch functionality the script should manage screens and brightness only. 
  
  A second functiality maintains synchronisation of the screen brightness using 'brightness()'. scree_man.sh remains running to allow this to work.
  
