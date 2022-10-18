@@ -1,4 +1,4 @@
- ##screen_man
+ ## screen_man
 
  Linux desktop script to manage dual screen setup such as a laptop (with touch screen) with a usb-C/hdmi connected touch screen using xinput and xrandr. 
  
