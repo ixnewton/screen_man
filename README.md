@@ -6,6 +6,8 @@
  
  A second functiality maintains synchronisation of the screen brightness using 'brightness()'. scree_man.sh remains running to allow this to work.
  
+ If this script is added in Autostart > Login Scripts (KDE5 system settings) then it will work in the background adjusting/synchronising brightness on the second screen.
+ 
  This script may be the basis of your solution where different screens and touch devices are in use including stylus pens.
 
  Identify your screen names using
